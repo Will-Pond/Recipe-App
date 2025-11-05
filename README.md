@@ -1,1 +1,1 @@
-# MB2
+Recipe App
