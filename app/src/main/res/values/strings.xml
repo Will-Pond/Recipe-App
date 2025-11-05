@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClassApp</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="recipe_image_description">image description</string>
+    <string name="name">Sample Recipe</string>
+    <string name="time">30 minutes</string>
+    <string name="favorite_button">Favorite button</string>
+    <string name="an_unknown_error_occurred">an unknown error occurred</string>
+    <string name="recipe_name">Name: %s</string>
+    <string name="recipe_time">Time: %s</string>
+    <string name="ingredients">Ingredients:\n%s</string>
+    <string name="recipe_steps">Instructions:\n%s</string>
+    <string name="recipe_description">Description: %s</string>
+    <string name="recipe_author">Author: %s</string>
+</resources>

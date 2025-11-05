@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19329629709",
+    "project_id": "csc415-finalproject-recipeapp",
+    "storage_bucket": "csc415-finalproject-recipeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19329629709:android:3135246fa4d77ca5f3df44",
+        "android_client_info": {
+          "package_name": "edu.nku.classapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_1vgwmxVaf-gH6TaTGQoTubH_Qb8BnXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
